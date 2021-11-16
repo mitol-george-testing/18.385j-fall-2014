@@ -1,0 +1,36 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Mathematics",
+      "Applied Mathematics"
+    ],
+    [
+      "Mathematics",
+      "Differential Equations"
+    ],
+    [
+      "Mathematics",
+      "Topology and Geometry"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "93e019fd-a46e-751f-99ea-91010c1f9c00"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Nonlinear Dynamics and Chaos",
+  "course_description": "This graduate level course focuses on nonlinear dynamics with applications. It takes an intuitive approach with emphasis on geometric thinking, computational and analytical methods and makes extensive use of demonstration software.\n",
+  "department_numbers": [
+    "18",
+    "2"
+  ],
+  "extra_course_numbers": "2.036J",
+  "primary_course_number": "18.385J",
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
